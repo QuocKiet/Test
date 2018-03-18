@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 khong duoc dmm
 thu lai
 thu lai 1 lan nua
+=======
+thay d?i r?i
+>>>>>>> parent of d8e94db... add kiet.txt
